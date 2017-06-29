@@ -1,0 +1,12 @@
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\bin\Debug\List.txt
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\bin\Debug\Alatest.exe
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\bin\Debug\Alatest.pdb
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\obj\x86\Debug\Alatest.exe
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\obj\x86\Debug\Alatest.pdb
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest.Routing\bin\Debug\List.txt
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest.Routing\bin\Debug\Alatest.exe
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest.Routing\bin\Debug\Alatest.pdb
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest.Routing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest.Routing\obj\x86\Debug\Alatest.exe
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest.Routing\obj\x86\Debug\Alatest.pdb

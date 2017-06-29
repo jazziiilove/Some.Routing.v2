@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\Alatest.Routing.Test.dll" total="37" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-02-19" time="06:43:02">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5466" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="BARAN-VAIO" user="Baran" user-domain="BARAN-VAIO" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\Alatest.Routing.Test.dll" executed="True" result="Success" success="True" time="0.409" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Xylem" executed="True" result="Success" success="True" time="0.381" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Routing" executed="True" result="Success" success="True" time="0.381" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.381" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.378" asserts="0">
+                    <results>
+                      <test-case name="Xylem.Routing.Test.TestClass.CannotRead_Gibberish" executed="True" result="Success" success="True" time="0.125" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CannotRead_NoTextFile" executed="True" result="Success" success="True" time="0.017" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CannotRead_Partial1" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CannotRead_Partial2" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CannotRead_Partial3" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CanRead_EmptyTextFile" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CanRead_Path" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanEmptyInput" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneAlpha" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneDelimiter" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneDelimiterLeading" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneDelimiterTrailiing" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneNumerical" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneNumericalEnd" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneNumericalFront" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneNumericalIn" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneNumericalOneAlpha" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanOneNumericalTwoAlpha" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanrTwoDelimitersSame" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanTwoAlpha" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanTwoDelimitersDifferent" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanTwoDelimitersNumeric" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanTwoLeadingDelimitersNumeric" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanTwoNumerical" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.CleanTwoTrailingDelimitersNumeric" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.DisplayHitMultiChars" executed="True" result="Success" success="True" time="0.022" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.DisplayHitOneChar" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.DisplayHitTwoChars" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.DisplayInvalidHit" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.DisplayNoHit" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.PopulateInputEmpty" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.PopulateInputOneNumeric" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.PopulateInputTwoNumerics" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.SearchFound" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.SearchFoundTimeCheck" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                      <test-case name="Xylem.Routing.Test.TestClass.SearchNotFound" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Xylem.Routing.Test.TestClass.SearchNotFoundTimeCheck" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

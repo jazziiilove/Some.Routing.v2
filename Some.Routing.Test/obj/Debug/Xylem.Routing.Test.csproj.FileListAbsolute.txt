@@ -1,0 +1,16 @@
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\List.txt
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\TestFiles\ListEmpty.txt
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\TestFiles\ListGibberish.txt
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\TestFiles\PartialList1.txt
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\TestFiles\PartialList2.txt
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\TestFiles\PartialList3.txt
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\Alatest.Routing.Test.dll
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\Alatest.Routing.Test.pdb
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\Alatest.exe
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\nunit.framework.dll
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\nunit.mocks.dll
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\Alatest.pdb
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\bin\Debug\nunit.framework.xml
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\obj\Debug\Alatest.Routing.Test.dll
+C:\Users\Baran\Desktop\Xylem-Exercise-BaranTopal\C#.NET\Xylem.Routing.v2\Xylem.Routing.Test\obj\Debug\Alatest.Routing.Test.pdb

@@ -1,0 +1,8 @@
+c:\users\baran\documents\visual studio 2010\Projects\Alatest\Alatest\bin\Debug\Alatest.exe
+c:\users\baran\documents\visual studio 2010\Projects\Alatest\Alatest\bin\Debug\Alatest.pdb
+c:\users\baran\documents\visual studio 2010\Projects\Alatest\Alatest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\baran\documents\visual studio 2010\Projects\Alatest\Alatest\obj\x86\Debug\Alatest.exe
+c:\users\baran\documents\visual studio 2010\Projects\Alatest\Alatest\obj\x86\Debug\Alatest.pdb
+C:\Users\Baran\documents\visual studio 2010\Projects\Alatest\Alatest\bin\Debug\List.txt
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\obj\x86\Debug\Alatest.exe
+C:\Users\Baran\Documents\Visual Studio 2010\Projects\AlatestRouting.v2\Alatest\obj\x86\Debug\Alatest.pdb

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="9BE11301-C1B1-4A9A-9F1D-F26BEDE0EDBB" ModuleId="Some.Routing" />
+  <Module PersistentId="BB4AB5AD-CAED-4C0A-827D-ABD444165A9E" ModuleId="Some.Routing.Test" />
+</Modules>
